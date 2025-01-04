@@ -1,0 +1,17 @@
+python-dotenv
+streamlit
+langchain
+langchain-community
+langchain-groq
+langchain-openai
+langchain-core
+fitz
+frontend
+chromadb 
+sentence-transformers
+pymupdf
+cassandra-driver
+astrapy
+langchain_huggingface
+fastapi
+uvicorn
